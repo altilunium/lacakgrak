@@ -1,5 +1,5 @@
 # lacakgrak
-Inbound/outbound packet sniffer
+Simple inbound/outbound packet sniffer
 
 ![image](https://github.com/user-attachments/assets/1c8614bf-b622-48a7-a851-f18dca5e7d5c)
 
