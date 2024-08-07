@@ -11,5 +11,11 @@ Simple inbound/outbound packet sniffer
 pip install scapy
 ```
 
+### Usage
+```
+python a.py
+```
+
+
 ### Credits
 * [Credits page](https://chatgpt.com/share/6011896c-cc29-4d53-8e83-360bc17835eb)
