@@ -4,7 +4,10 @@ Simple inbound/outbound packet sniffer
 ![image](https://github.com/user-attachments/assets/28df2a1b-c60c-4742-8f01-b2d83c841af5)
 
 * Statistics will be updated each 10 seconds
-* For each IP, sorted by transferred byte size 
+* For each IP, sorted by transferred byte size
+
+### Background
+This sniffer is so simplified that you can only see the size of the traffic. This is because I just want to know where my traffic is going and how big it is. I want to identify the cause of my recent unexpected surge in internet traffic.
 
 ### Installation
 ```
