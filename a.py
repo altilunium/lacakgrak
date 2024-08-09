@@ -4,6 +4,7 @@ import time
 import socket
 import os
 import ipaddress
+import termplotlib
 
 traffic_data = {}
 lock = threading.Lock()
