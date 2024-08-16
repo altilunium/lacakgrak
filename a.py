@@ -19,6 +19,7 @@ def packet_callback(packet):
     if IP in packet:
         global ip_dst
         global ip_src
+        global packet_len
         ip_src = packet[IP].src
         ip_dst = packet[IP].dst
         packet_len = len(packet)
