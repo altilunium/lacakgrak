@@ -1,2 +1,3 @@
-termplotlib
 scapy
+clipboard
+ip2geotools
