@@ -12,12 +12,14 @@ This sniffer is so simplified that you can only see the size of the traffic. Thi
 ### Installation
 ```
 pip install scapy
+pip install clipboard
 ```
 
 ### Usage
 ```
 python a.py
 ```
+Press Ctrl+C to quit (the statistics will be copied to the clipboard).
 
 ### Release Notes
 
