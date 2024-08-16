@@ -17,6 +17,8 @@ def packet_callback(packet):
     This function is called for each network packet captured by the sniffer. It extracts the source and destination IP addresses from the packet, and updates the `traffic_data` dictionary with the total bytes sent and received for each IP address. The `lock` object is used to ensure thread-safe access to the `traffic_data` dictionary.
     """
     if IP in packet:
+        global ip_dst
+        global ip_src
         ip_src = packet[IP].src
         ip_dst = packet[IP].dst
         packet_len = len(packet)
