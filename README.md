@@ -22,7 +22,8 @@ python a.py
 Press Ctrl+C to quit (the statistics will be copied to the clipboard).
 
 ### Release Notes
-
+#### v24.8.16
+* Ctrl + C : exits + copies all statistics to the clipboard
 
 #### v24.8.8
 ![image](https://github.com/user-attachments/assets/28df2a1b-c60c-4742-8f01-b2d83c841af5)
