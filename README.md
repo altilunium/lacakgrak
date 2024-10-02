@@ -22,6 +22,11 @@ python a.py
 Press Ctrl+C to quit (the statistics will be copied to the clipboard).
 
 ### Release Notes
+
+### v24.10.2
+* GUI version (see [GUI branch](https://github.com/altilunium/lacakgrak/tree/GUI) ->  a - Copy.py)
+* SQLite IP storage
+
 #### v24.8.16
 * Ctrl + C : exits + copies all statistics to the clipboard
 
